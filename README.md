@@ -16,7 +16,7 @@ The font attributes that can be extracted are:
   * Is Serif
   * Is SmallCap
 
-**The Jar file can be executed in the following way:**
+**The Jar file can be executed in the following way:**<br />
 java -jar detectFontWithDependencies_1.1.0 --file "C:/Users/hp/Desktop/test_pdf.pdf" --allparams true<br />
 The option *allparams* set to true returns all the optional attributes associated with the text.<br />
 **The Default value of allparams is set to false.**
